@@ -1,0 +1,10 @@
+1.mulai
+2.input teks
+3.deklarasi hasil =""(string kosong)
+4.deklarasi x=teks.length-1
+5.lakukan proses looping dengan syarat x>=0,jika kondisi true ke proses 6,jika kondisi false ke proses 8
+6.hasil=hasil+teks[x]
+7.x=x-1,kembali ke proses 5
+8.cek hasil sama atau tidak dengan teks,jika sama output teks adalah teks palindrom jika tidak output teks bukan palindrom
+9.output tergantung hasil dari proses 8
+10.selesai

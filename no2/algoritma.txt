@@ -1,0 +1,5 @@
+1. mulai
+2. input kalimat
+3. balikKalimat=kalimat.split(' ').reverse().join(' ')
+4. output balikKalimat
+5. selesai
